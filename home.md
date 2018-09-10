@@ -3,4 +3,4 @@ layout: page
 title: Home
 subtitle: Home
 ---
-![Poster](/img/posterv2.jpg)
+![Poster](/img/posterv2.png)
