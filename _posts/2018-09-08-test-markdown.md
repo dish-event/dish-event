@@ -7,5 +7,5 @@ gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-#DISH 2018 will take place on November 10-11 2018!
+#DISH 2018 will take place on November 10-11 2018!!
 ![Poster](/img/posterv1.jpg)
