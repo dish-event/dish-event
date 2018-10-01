@@ -14,7 +14,8 @@ use-site-title: false
 
 ***
 
-The event will consist of blockchain 101 talks (biz track), specialised break out rooms per smart contract platform (dev track), panel discussions (biz track), in-person code mentoring (dev track) and finally a judging round to decide the top 3 teams of the competition. Our targeted 150 participants will consist of mostly developers and marketers, project managers and the like coming from a wide range of industries.   
-
+The event will consist of blockchain 101 talks (biz track), specialised break out rooms per smart contract platform (dev track), panel discussions (biz track), in-person code mentoring (dev track) and finally a judging round to decide the top 3 teams of the competition. Our targeted 150 participants will consist of mostly developers and marketers, project managers and the like coming from a wide range of industries.
+   
+***
 
 ![Poster](/img/posterv2.png)
