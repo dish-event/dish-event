@@ -24,6 +24,7 @@ description: Decentralized Innovation Startup Hackathon
 # List of links in the navigation bar
 navbar-links:
   News: "news.html"
+  Program: "program.html"
   About Us: "aboutus"
   Organizers:
     - PH Blockchain Devs: "http://"
