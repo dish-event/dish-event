@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-subtitle: The latest?
+subtitle: The latest!
 ---
 <div class="posts-list">
   {% for post in paginator.posts %}
