@@ -8,8 +8,8 @@ use-site-title: false
 ***
 
 **DISH 2018** will happen at:
-- Start: **Saturday November 10, 7AM** 
-- End: **Sunday November 11, 6PM** 
+- Start: **Saturday November 24, 7AM** 
+- End: **Sunday November 25, 6PM** 
 - Location: **BlockchainSpace, Acceler8 Coworking space**, Makati City, Metro Manila, Philippines. 
 
 ***
