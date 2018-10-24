@@ -18,4 +18,8 @@ The event will consist of blockchain 101 talks (biz track), specialised break ou
    
 ***
 
-![Poster](/img/posterv2.png)
+![Poster](/img/dish.jpg)
+
+![Poster](/img/organisers.png)
+
+![Poster](/img/sponsors.png)
