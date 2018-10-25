@@ -21,8 +21,8 @@ As a primer to DISH, the blockchain community will be hosting [the DAppetiser me
 - Location: **BlockchainSpace, Acceler8 Coworking space**, Makati City, Metro Manila, Philippines. 
 
 ### REGISTER
-- Sign up your team here: [https://dish2018.typeform.com/to/DQ1piM]
-- RSVP your personal attendance here: [https://www.meetup.com/Makati-Digital-Currency/events/254474308/]
+- Sign up your team here: https://dish2018.typeform.com/to/DQ1piM
+- RSVP your personal attendance here: https://www.meetup.com/Makati-Digital-Currency/events/254474308/
 
 ***
 
