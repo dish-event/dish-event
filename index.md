@@ -5,7 +5,7 @@ use-site-title: false
 
 ![Poster](/img/dish.jpg)
 
-#REGISTER: 
+# REGISTER: 
 - Sign up your team here: [https://dish2018.typeform.com/to/DQ1piM]
 - RSVP your personal attendance here: [https://www.meetup.com/Makati-Digital-Currency/events/254474308/]
 
