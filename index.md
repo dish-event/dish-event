@@ -6,8 +6,8 @@ use-site-title: false
 ![Poster](/img/dish.jpg)
 
 REGISTER: 
-[https://dish2018.typeform.com/to/DQ1piM](Signup)
-[https://www.meetup.com/Makati-Digital-Currency/events/254474308/](RSVP)
+Sign up your team here: [https://dish2018.typeform.com/to/DQ1piM]
+RSVP your personal attendance here: [https://www.meetup.com/Makati-Digital-Currency/events/254474308/]
 
 **DISH 2018** is a startup challenge that aims to enable Metro-Manila based developers to prototype and build relevant and sustainable platforms using blockchain technology.  It will be led and organised by the leading blockchain organizations and communities in the Philippines towards the goal of promoting blockchain use case design and engineering skill awareness for potential local talent that will hopefully culminate in a wider hiring pool for participating blockchain companies.  
 
