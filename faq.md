@@ -27,8 +27,8 @@ subtitle: What you really wanted to know
 >Yes, we understand that you learn and change perspective during the event. Changing/merging is accepted.
 
 ### What output is expected for judging?
->Imagine the judging as an episode of Shark Tank. We’ll look at the Technical and Business side, on the level of Team, Idea, Innovativeness, Commercial Viability. Since Blockchain is so new, we generally don’t expect a finished product or MVP. Just convince us it’s possible.
-> Of course the project needs to use blockchain.
+>Imagine the judging as an episode of Shark Tank. We’ll look at the Technical and Business side, on the levels of Innovativeness, Commercial Viability. Since Blockchain is so new, we generally don’t expect a finished product or MVP. Just convince us it’s possible. It's okay to have no code prototype, but then a wireframe or spec documents are necessary.
+> Of course the project needs (prepare) to use blockchain.
 
 ### What if I have no experience and confidence with Blockchain or Startups at all?
 >Assuming you do want to get into the game now, DISH2018 is the perfect moment to start! There are mentors, technical introductions and plenty of likeminded people. If you don’t win, at least you learn a lot! And if you didnt learn, you probably made new friends :-)
