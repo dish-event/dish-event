@@ -23,7 +23,7 @@ description: Decentralized Innovation Startup Hackathon
 
 # List of links in the navigation bar
 navbar-links:
-  # News: "news"
+  FAQ: "faq"
   Signup: "https://dish2018.typeform.com/to/DQ1piM"
   Program: "program"
   About Us: "aboutus"
