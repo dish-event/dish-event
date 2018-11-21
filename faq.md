@@ -14,6 +14,8 @@ subtitle: What you really wanted to know
 ### This is a non-stop 35-hour event, what does that mean practically?
 >The venue is open from saturday morning until sunday closing. You can code all night long, or take a nap. You can also take a break nearby and come back in the morning, up to you!
 
+### I don't have a team but want to join
+> No problem! If you come in early on saturday morning, there is plenty of opportunity to form a new team with others, or to join an existing team. Be sure to check out our [Slack channel](https://join.slack.com/t/dish2018/shared_invite/enQtNDgyNjc1ODk5NjE5LWY0MjVjNmM5ODMzZmQ5NjZjZTBiNGY0ODMwZDAyOGFkODNkOGY5M2QzNDZiMWYyM2Q0MDg5MTlkMjMwNjY4Njc) too!
 
 
 ## Hackathon
