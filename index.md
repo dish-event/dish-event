@@ -28,4 +28,4 @@ As a primer to DISH, the blockchain community will be hosting [the DAppetiser me
 
 ![Poster](/img/organisers.png)
 
-![Poster](/img/sponsors.png)
+![Poster](/img/sponsors.jpg)
