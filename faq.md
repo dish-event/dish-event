@@ -23,7 +23,7 @@ subtitle: What you really wanted to know
 > - First prize: PHP 34,000 + 2 months Acceler8 
 > - Second prize: PHP 22,000 + 1 month Acceler8
 > - Third prize: PHP 12,000 + 1 month Acceler8
-> - Other prizes / Raffle items still under consideration
+> - Accenture's Choice Award (judged on Innovativeness, Adaptability and Scalability): Samsung J7 for each member of winning team.
 
 ### Can I change teams, merge teams during the hackathon?
 >Yes, we understand that you learn and change perspective during the event. Changing/merging is accepted.
