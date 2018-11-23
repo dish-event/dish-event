@@ -10,10 +10,6 @@ use-site-title: false
 
 The event will consist of blockchain 101 talks (biz track), specialised break out rooms per smart contract platform (dev track), panel discussions (biz track), in-person code mentoring (dev track) and finally a judging round to decide the top 3 teams of the competition. Our targeted 150 participants will consist of mostly developers and marketers, project managers and the like coming from a wide range of industries.
 
-### PRE-EVENT
-As a primer to DISH, the blockchain community will be hosting [the DAppetiser meetup](https://www.meetup.com/blockdevsasia/events/255790578/?isFirstPublish=true) on Thursday, November 8th at 7:30PM. Taking place in The Bottle Shop BGC, this introductory networking session is meant to connect all organizers and participants in one location. In any case, if you’re interested in learning more about DISH, looking to join a team, or just want to casually network with people from the community, then this meetup is for you! 
-
-
 ### LOCATION AND TIME
 **DISH 2018** will happen at:
 - Start: **Saturday November 24, 7AM** 
