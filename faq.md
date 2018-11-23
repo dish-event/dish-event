@@ -42,4 +42,4 @@ subtitle: What you really wanted to know
 >Assuming you do want to get into the game now, DISH2018 is the perfect moment to start! There are mentors, technical introductions and plenty of likeminded people. If you don’t win, at least you learn a lot! And if you didnt learn, you probably made new friends :-)
 
 ### Which technologies will you support?
-> We focus on EOS, NEM and Ethereum since we have experts in those fields during the event. But if you want to use another platform, go ahead!
+> We focus on EOS and Ethereum tech stacks since we have experts in those fields during the event. But if you want to use another platform, go ahead! We will also have the TagCash, SCI and Rakuten platforms/APIs and their mentors/founders present
