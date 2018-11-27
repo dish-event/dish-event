@@ -8,17 +8,12 @@ use-site-title: false
 ### OVERVIEW
 **DISH 2018** is a startup challenge that aims to enable Metro-Manila based developers to prototype and build relevant and sustainable platforms using blockchain technology.  It will be led and organised by the leading blockchain organizations and communities in the Philippines towards the goal of promoting blockchain use case design and engineering skill awareness for potential local talent that will hopefully culminate in a wider hiring pool for participating blockchain companies.  
 
-The event will consist of blockchain 101 talks (biz track), specialised break out rooms per smart contract platform (dev track), panel discussions (biz track), in-person code mentoring (dev track) and finally a judging round to decide the top 3 teams of the competition. Our targeted 150 participants will consist of mostly developers and marketers, project managers and the like coming from a wide range of industries.
-
 ### LOCATION AND TIME
-**DISH 2018** will happen at:
+**DISH 2018** happened at:
 - Start: **Saturday November 24, 7AM** 
 - End: **Sunday November 25, 6PM** 
 - Location: **BlockchainSpace, Acceler8 Coworking space**, Makati City, Metro Manila, Philippines. 
 
-### REGISTER
-- [Sign up your team](https://dish2018.typeform.com/to/DQ1piM)
-- [RSVP your personal attendance here](https://www.meetup.com/Makati-Digital-Currency/events/254474308/)
 
 ***
 
